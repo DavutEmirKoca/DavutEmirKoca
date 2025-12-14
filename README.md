@@ -5,7 +5,6 @@
 - 🔭 Şu anda **C++** üzerinde çalışıyorum.
 - 🌱 Kendimi **Yapay Zeka** ve **Veri Bilimi** alanlarında geliştirmek istiyorum.
 - 📚 Okul projelerimi ve kişisel çalışmalarımı burada paylaşıyorum.
-- ⚡ **Hobilerim:** Bilim Kurgu, Kitaplar
 
 ---
 
