@@ -1,16 +1,24 @@
-## Hi there 👋
+### Merhaba, Ben Davut Emir Koca! 👋
 
-<!--
-**DavutEmirKoca/DavutEmirKoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği öğrencisiyim ve yazılım dünyasına sağlam adımlarla giriş yapıyorum.
 
-Here are some ideas to get you started:
+- 🔭 Şu anda **C++** üzerinde çalışıyorum.
+- 🌱 Kendimi **Yapay Zeka** ve **Veri Bilimi** alanlarında geliştirmek istiyorum.
+- 📚 Okul projelerimi ve kişisel çalışmalarımı burada paylaşıyorum.
+- ⚡ **Hobilerim:** Bilim Kurgu, Kitaplar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+* **Diller:** C, C++
+* **Araçlar:** Git, Visual Studio Code
+
+---
+
+### 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavutEmirKoca&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavutEmirKoca&layout=compact&theme=radical)
+
+---
+📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/davutemirkoca/) | [Email Gönder](mailto:davutemirkoca@outlook.com)
