@@ -9,8 +9,8 @@
 ---
 
 ###  Kullandığım Teknolojiler ve Araçlar
-* **Diller:** C, C++
-* **Araçlar:** Git, Visual Studio Code
+* **Diller:** C, C++, Kotlin
+* **Araçlar:** Git, Visual Studio Code, IntelliJ IDEA
 
 ---
 
